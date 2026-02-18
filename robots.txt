@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://springfieldplumbingcorp.com/sitemap.xml
